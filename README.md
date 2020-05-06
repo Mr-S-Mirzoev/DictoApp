@@ -9,4 +9,5 @@ To install on Ubuntu/Debian/Mint use following in terminal in dictoapp folder:
 Make sure to say "yes" to all questions and input password when required.
 
 After installation you can freely use DictoApp localy as follows:
+
     python3 dictoapp.py
